@@ -1,1 +1,1 @@
-exemplos de uso das records
+exemplos de uso das records no java
